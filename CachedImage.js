@@ -18,8 +18,8 @@ const {
     ActivityIndicator,
     Platform,
     StyleSheet,
+    NetInfo
 } = ReactNative;
-import NetInfo from "@react-native-community/netinfo";
 
 const styles = StyleSheet.create({
     image: {
